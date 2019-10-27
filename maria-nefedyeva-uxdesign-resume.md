@@ -5,11 +5,11 @@
 
 ## In love with Digital Design!
 
-**-problem solving-**  passionate about solving real problems for real people | use design thinking methodology for creative problem solving
-**-graphic design-** digital and print | experienced with typography, color, composition, layout, greed structures
-**-branding-** design brand identity | create and follow style guidelines | create on-brand solutions
-**-marketing-** e-commerce | emails | landing pages | digital marketing campaigns | B2B | B2C
-**-ux design-** work on transforming my career into digital product | ux design
+ **-problem solving-**  passionate about solving real problems for real people | use design thinking methodology for creative problem solving  
+ **-graphic design-** digital and print | experienced with typography, color, composition, layout, greed structures  
+ **-branding-** design brand identity | create and follow style guidelines | create on-brand solutions
+ **-marketing-** e-commerce | emails | landing pages | digital marketing campaigns | B2B | B2C
+ **-ux design-** work on transforming my career into digital product | ux design
 
 ## experience
 **Graphic Designer | [Costco](http://costco.com/) E-commerce Marketing**
